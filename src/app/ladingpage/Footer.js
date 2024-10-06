@@ -11,8 +11,8 @@ import Gpay from '@/Images/landingpage/Gpay.png';
 import Mastercard from '@/Images/landingpage/Mastercard.png';
 import Paypal from '@/Images/landingpage/Paypal.png';
 import Amex from '@/Images/landingpage/Amex.png';
-import ApplePay from '@/Images/landingpage/Applepay.png';
-import OPay from '@/Images/landingpage/Opay.png';
+// import ApplePay from '@/Images/landingpage/Applepay.png';
+// import OPay from '@/Images/landingpage/Opay.png';
 import Link from 'next/link';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
@@ -124,8 +124,8 @@ function Footer()
                     <Image src={Mastercard} alt="Mastercard" width={56} height={35} />
                     <Image src={Paypal} alt="Paypal" width={56} height={35} />
                     <Image src={Amex} alt="Amex" width={56} height={35} />
-                    <Image src={ApplePay} alt="Apple Pay" width={56} height={35} />
-                    <Image src={OPay} alt="OPay" width={56} height={35} />
+                    {/* <Image src={ApplePay} alt="Apple Pay" width={56} height={35} />
+                    <Image src={OPay} alt="OPay" width={56} height={35} /> */}
                 </div>
                 </div>
             </div>
