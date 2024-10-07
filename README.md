@@ -87,13 +87,17 @@ Thank you for reviewing my submission. I look forward to your feedback!
    
  ![App Screenshot](screenshots/appscrip1.jpeg)
 
-2. ![App Screenshot](screenshots/appscrip2.jpeg)
+2.  
+![App Screenshot](screenshots/appscrip2.jpeg)
 
-3. ![App Screenshot](screenshots/appscrip3.jpeg)
+3.
+ ![App Screenshot](screenshots/appscrip3.jpeg)
 
-4. ![App Screenshot](screenshots/appscrip4.jpeg)
+4.
+ ![App Screenshot](screenshots/appscrip4.jpeg)
 
-5. ![App Screenshot](screenshots/appscrip5.jpeg)
+5. 
+![App Screenshot](screenshots/appscrip5.jpeg)
 
 6. **Customizable Product Filter:**
 - The filter system allows users to sort products by category such as Men, Women, and Baby & Kids. Selecting a category will display only the relevant products while selecting "All" will reset the filters and show all available products. This flexible filter enhances the user experience by offering tailored product views.
@@ -123,6 +127,7 @@ Thank you for reviewing my submission. I look forward to your feedback!
 ## Mobile-Responsive E-commerce Pages
    - An elegantly designed mobile-responsive e-commerce layout showcasing three main product listing views: high-end electronics/accessories, men's fashion collection, and a detailed footer section. Each page adapts smoothly to mobile screen sizes, featuring clear category filters, product cards with ratings, and a user-friendly navigation system with full payment and contact information accessible at the bottom.
 
+
 **Mobile View(IPad Mini)**
 
 12. ![App Screenshot](screenshots/appscrip12.jpeg)
@@ -132,6 +137,7 @@ Thank you for reviewing my submission. I look forward to your feedback!
 14. ![App Screenshot](screenshots/appscrip14.jpeg)
 
 15. ![App Screenshot](screenshots/appscrip15.jpeg)
+
 
 **Mobile View(IPhone SE)**
 
