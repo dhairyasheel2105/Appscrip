@@ -82,51 +82,51 @@ You can deploy this project on Netlify, Vercel, or any other static hosting serv
 Thank you for reviewing my submission. I look forward to your feedback!
 
 ## Web Page Screenshots
-1.
+**1.**
  **Home Page**
    - This project features a clean and responsive homepage that includes a logo, a navigation bar with links to various sections (Shop, Skills, Stories, About, and Contact Us), and a central section that highlights products with the heading "Discover Our Products". The products are displayed in a grid format, with a sidebar that allows users to apply customizable filters. The design prioritizes user-friendliness and accessibility, ensuring a seamless experience across devices.
    
  ![App Screenshot](screenshots/appscrip1.jpeg)
 
-2.  
+**2.**  
 ![App Screenshot](screenshots/appscrip2.jpeg)
 
-3.
+**3.**
  ![App Screenshot](screenshots/appscrip3.jpeg)
 
-4.
+**4.**
  ![App Screenshot](screenshots/appscrip4.jpeg)
 
-5. 
+**5.** 
 ![App Screenshot](screenshots/appscrip5.jpeg)
 
-6. 
+**6.** 
 **Customizable Product Filter:**
 - The filter system allows users to sort products by category such as Men, Women, and Baby & Kids. Selecting a category will display only the relevant products while selecting "All" will reset the filters and show all available products. This flexible filter enhances the user experience by offering tailored product views.
 
  ![App Screenshot](screenshots/appscrip6.jpeg)
 
-7. 
+**7.** 
 **Sort Products by Preference:**
 - The sorting options include filters to organize products by Recommended, Newest First, Popular, Price from High to Low, and Price from Low to High. These features allow users to customize their product browsing experience based on personal preferences or purchase priorities.
 
  ![App Screenshot](screenshots/appscrip7.jpeg)
 
-8. 
+**8.** 
 ![App Screenshot](screenshots/appscrip8.jpeg)
 
-9. 
+**9.** 
 **Product Listing Overview:**
 - A curated product listing page showing items sorted by price from high to low, featuring three main products: a premium Samsung 49-inch curved gaming monitor, a John Hardy designer silver bracelet, and an Acer budget-friendly monitor. The interface includes filtering options for customization, ideal recipient, and occasion, with 20 total items available for browsing.
   
  ![App Screenshot](screenshots/appscrip9.jpeg)
 
-10. 
+**10.** 
 **Men's Category Products:**
     - A filtered view of men's fashion items showcasing three essential products: a Fjallraven laptop backpack in navy blue, a casual baseball-style henley t-shirt in white/black, and a khaki cotton jacket. The selection demonstrates a range of men's accessories and clothing options with clear category filtering applied.
       ![App Screenshot](screenshots/appscrip10.jpeg)
 
-11. 
+**11.** 
 **Footer Layout Description:**
     - A filtered view of men's fashion items showcasing three essential products: a Fjallraven laptop backpack in navy blue, a casual baseball-style henley t-shirt in white/black, and a khaki cotton jacket. The selection demonstrates a range of men's accessories and clothing options with clear category filtering applied.
       ![App Screenshot](screenshots/appscrip11.jpeg)
@@ -137,28 +137,28 @@ Thank you for reviewing my submission. I look forward to your feedback!
 
 **Mobile View(IPad Mini)**
 
-12. 
+**12.** 
 ![App Screenshot](screenshots/appscrip12.jpeg)
 
-13. 
+**13.** 
 ![App Screenshot](screenshots/appscrip13.jpeg)
 
-14. 
+**14.** 
 ![App Screenshot](screenshots/appscrip14.jpeg)
 
-15. 
+**15.** 
 ![App Screenshot](screenshots/appscrip15.jpeg)
 
 
 **Mobile View(IPhone SE)**
 
-16. 
+**16.** 
 ![App Screenshot](screenshots/appscrip16.jpeg)
 
-17. 
+**17.** 
 ![App Screenshot](screenshots/appscrip17.jpeg)
 
-18. 
+**18.** 
 ![App Screenshot](screenshots/appscrip18.jpeg)
 
 
