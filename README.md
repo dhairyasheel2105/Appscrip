@@ -92,7 +92,7 @@ Thank you for reviewing my submission. I look forward to your feedback!
 
 ![App Screenshot](screenshots/appscrip4.jpeg)
 
-![App Screenshot](screenshots/appscrip5.jpeg)
+    ![App Screenshot](screenshots/appscrip5.jpeg)
 
 ![App Screenshot](screenshots/appscrip6.jpeg)
 
