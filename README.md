@@ -82,9 +82,7 @@ You can deploy this project on Netlify, Vercel, or any other static hosting serv
 Thank you for reviewing my submission. I look forward to your feedback!
 
 ## Web Page Screenshots
-
-
-
+![App Screenshot](screenshots/appscrip1.jpg)
 
 
 
