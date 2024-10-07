@@ -94,10 +94,12 @@ Thank you for reviewing my submission. I look forward to your feedback!
 ![App Screenshot](screenshots/appscrip9.jpeg)
 ![App Screenshot](screenshots/appscrip10.jpeg)
 ![App Screenshot](screenshots/appscrip11.jpeg)
+**Mobile View(IPad Mini)**
 ![App Screenshot](screenshots/appscrip12.jpeg)
 ![App Screenshot](screenshots/appscrip13.jpeg)
 ![App Screenshot](screenshots/appscrip14.jpeg)
 ![App Screenshot](screenshots/appscrip15.jpeg)
+**Mobile View(IPhone SE)**
 ![App Screenshot](screenshots/appscrip16.jpeg)
 ![App Screenshot](screenshots/appscrip17.jpeg)
 ![App Screenshot](screenshots/appscrip18.jpeg)
