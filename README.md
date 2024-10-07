@@ -83,25 +83,45 @@ Thank you for reviewing my submission. I look forward to your feedback!
 
 ## Web Page Screenshots
    **Home Page**
+   
 ![App Screenshot](screenshots/appscrip1.jpeg)
+
 ![App Screenshot](screenshots/appscrip2.jpeg)
+
 ![App Screenshot](screenshots/appscrip3.jpeg)
+
 ![App Screenshot](screenshots/appscrip4.jpeg)
+
 ![App Screenshot](screenshots/appscrip5.jpeg)
+
 ![App Screenshot](screenshots/appscrip6.jpeg)
+
 ![App Screenshot](screenshots/appscrip7.jpeg)
+
 ![App Screenshot](screenshots/appscrip8.jpeg)
+
 ![App Screenshot](screenshots/appscrip9.jpeg)
+
 ![App Screenshot](screenshots/appscrip10.jpeg)
+
 ![App Screenshot](screenshots/appscrip11.jpeg)
+
 **Mobile View(IPad Mini)**
+
 ![App Screenshot](screenshots/appscrip12.jpeg)
+
 ![App Screenshot](screenshots/appscrip13.jpeg)
+
 ![App Screenshot](screenshots/appscrip14.jpeg)
+
 ![App Screenshot](screenshots/appscrip15.jpeg)
+
 **Mobile View(IPhone SE)**
+
 ![App Screenshot](screenshots/appscrip16.jpeg)
+
 ![App Screenshot](screenshots/appscrip17.jpeg)
+
 ![App Screenshot](screenshots/appscrip18.jpeg)
 
 
