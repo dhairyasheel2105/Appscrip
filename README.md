@@ -4,7 +4,7 @@
 This repository contains the implementation of the design task specified in the Figma link. The task has been developed using **React.js** with the **Next.js** framework, showcasing my skills in building responsive and SEO-friendly web pages.
 
 ## Live Demo
-The application is hosted on [Netlify](insert-your-netlify-link-here) for easy access and evaluation.
+The application is hosted on [Netlify](https://appscripecommerce.netlify.app/) for easy access and evaluation.
 
 ## Features
 - **Server-Side Rendering (SSR):** The application utilizes SSR to enhance performance and SEO.
@@ -80,6 +80,9 @@ You can deploy this project on Netlify, Vercel, or any other static hosting serv
 
 ## Conclusion
 Thank you for reviewing my submission. I look forward to your feedback!
+
+## Web Page Screenshots
+
 
 
 
