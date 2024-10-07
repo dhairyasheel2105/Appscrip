@@ -92,9 +92,15 @@ Thank you for reviewing my submission. I look forward to your feedback!
 
 ![App Screenshot](screenshots/appscrip4.jpeg)
 
-    ![App Screenshot](screenshots/appscrip5.jpeg)
+![App Screenshot](screenshots/appscrip5.jpeg
+
+**Customizable Product Filter:**
+- The filter system allows users to sort products by category such as Men, Women, and Baby & Kids. Selecting a category will display only the relevant products while selecting "All" will reset the filters and show all available products. This flexible filter enhances the user experience by offering tailored product views.
 
 ![App Screenshot](screenshots/appscrip6.jpeg)
+
+**Sort Products by Preference:**
+- The sorting options include filters to organize products by Recommended, Newest First, Popular, Price from High to Low, and Price from Low to High. These features allow users to customize their product browsing experience based on personal preferences or purchase priorities.
 
 ![App Screenshot](screenshots/appscrip7.jpeg)
 
