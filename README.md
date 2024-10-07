@@ -114,28 +114,32 @@ Thank you for reviewing my submission. I look forward to your feedback!
 
 10. **Men's Category Products:**
     - A filtered view of men's fashion items showcasing three essential products: a Fjallraven laptop backpack in navy blue, a casual baseball-style henley t-shirt in white/black, and a khaki cotton jacket. The selection demonstrates a range of men's accessories and clothing options with clear category filtering applied.
-      
- ![App Screenshot](screenshots/appscrip10.jpeg)
+      ![App Screenshot](screenshots/appscrip10.jpeg)
 
-![App Screenshot](screenshots/appscrip11.jpeg)
+11. **Footer Layout Description:**
+    - A filtered view of men's fashion items showcasing three essential products: a Fjallraven laptop backpack in navy blue, a casual baseball-style henley t-shirt in white/black, and a khaki cotton jacket. The selection demonstrates a range of men's accessories and clothing options with clear category filtering applied.
+      ![App Screenshot](screenshots/appscrip11.jpeg)
+
+## Mobile-Responsive E-commerce Pages
+   - An elegantly designed mobile-responsive e-commerce layout showcasing three main product listing views: high-end electronics/accessories, men's fashion collection, and a detailed footer section. Each page adapts smoothly to mobile screen sizes, featuring clear category filters, product cards with ratings, and a user-friendly navigation system with full payment and contact information accessible at the bottom.
 
 **Mobile View(IPad Mini)**
 
-![App Screenshot](screenshots/appscrip12.jpeg)
+12. ![App Screenshot](screenshots/appscrip12.jpeg)
 
-![App Screenshot](screenshots/appscrip13.jpeg)
+13. ![App Screenshot](screenshots/appscrip13.jpeg)
 
-![App Screenshot](screenshots/appscrip14.jpeg)
+14. ![App Screenshot](screenshots/appscrip14.jpeg)
 
-![App Screenshot](screenshots/appscrip15.jpeg)
+15. ![App Screenshot](screenshots/appscrip15.jpeg)
 
 **Mobile View(IPhone SE)**
 
-![App Screenshot](screenshots/appscrip16.jpeg)
+16. ![App Screenshot](screenshots/appscrip16.jpeg)
 
-![App Screenshot](screenshots/appscrip17.jpeg)
+17. ![App Screenshot](screenshots/appscrip17.jpeg)
 
-![App Screenshot](screenshots/appscrip18.jpeg)
+18. ![App Screenshot](screenshots/appscrip18.jpeg)
 
 
 
