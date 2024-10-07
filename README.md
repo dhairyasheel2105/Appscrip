@@ -21,19 +21,19 @@ The application is hosted on [Netlify](https://appscripecommerce.netlify.app/) f
 - The project follows a modular structure, promoting maintainability and scalability. Code quality is prioritized with clear naming conventions.
 
 ## Getting Started
-**1.** Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Appscrip-task-Dhairyasheel-Balasaheb-Ingale.git
 
-**2.** Navigate to the project directory:
+2. Navigate to the project directory:
   
        cd Appscrip-task-Dhairyasheel-Balasaheb-Ingale
 
-**3.** Install dependencies:
+3. Install dependencies:
 
        npm install
 
-**4.** Run the development server:
+4. Run the development server:
     
        npm run dev
 
